@@ -54,7 +54,7 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="sildev13" /> </p>
 
 <h3 align="left">💫 Stats</h3>
-<div align="center">
+<div align="left">
   <img src="https://lanyard.cnrad.dev/api/1471398248974651478?theme=dark&bg=1a1b27&animated=true" />
 </div>
 
