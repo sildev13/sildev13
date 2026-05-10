@@ -38,9 +38,29 @@
 <h3 align="left">💠 Languages</h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,py" alt="sildev13" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sildev13&show_icons=true&locale=en&layout=compact" alt="sildev13" /></p>
+<h3 align="left">🔥 Frameworks</h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,vue,discordjs" alt="sildev13" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sildev13&show_icons=true&locale=en" alt="sildev13" /></p>
+<h3 align="left">🛠 Deployments and Tools</h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,bun,vercel,netlify,nginx,wordpress,aws,cloudflare,firebase" alt="sildev13" /> </p>
+
+<h3 align="left">🎈 Softwares and Designs</h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=vscode,ps,pr,au,blender,discord,robloxstudio" alt="sildev13" /> </p>
+
+<h3 align="left">💻 Operating Systems</h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi,mint,linux,debian,arch" alt="sildev13" /> </p>
+
+<h3 align="left">💾 Database</h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="sildev13" /> </p>
+
+<h3 align="left">💫 Stats</h3>
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/1471398248974651478?theme=dark&bg=1a1b27&animated=true" />
+</div>
+
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sildev13&show_icons=true&locale=en&layout=compact" alt="sildev13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sildev13&show_icons=true&locale=en" alt="sildev13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sildev13&" alt="sildev13" /></p>
 
