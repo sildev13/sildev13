@@ -6,7 +6,7 @@
 
 ### Developer & Gamer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sildev13&label=Profile views&color=0e75b6&style=flat" alt="sildev13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sildev13&label=Profile%20Views&color=9333EA&style=flat" alt="sildev13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sildev13" alt="sildev13" /></a> </p>
 
