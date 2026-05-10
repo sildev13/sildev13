@@ -7,7 +7,7 @@
 <table border="0">
   <tr>
     <td align="center" width="35%" valign="top">
-      <img src="https://raw.githubusercontent.com/sildev13/sildev13/main/your-avatar.png" width="250px" style="border-radius: 20px;" />
+      <img src="[https://raw.githubusercontent.com/sildev13/sildev13/main/your-avatar.png](https://avatars.githubusercontent.com/u/193212083?v=4)" width="250px" style="border-radius: 20px;" />
       <br><br>
       <h3>✨ Jittiphat Somsai ✨</h3>
       <p><i>"Code by Day, Drums by Night"</i></p>
