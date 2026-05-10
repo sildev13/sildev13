@@ -6,7 +6,7 @@
 
 ### Developer & Gamer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sildev13&label=Profile%20Views&color=9333EA&style=flat" alt="sildev13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sildev13&label=Profile views&color=0e75b6&style=flat" alt="sildev13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sildev13" alt="sildev13" /></a> </p>
 
@@ -24,12 +24,13 @@
 
 - 👨‍💻 All of my projects are available at **[https://suphason.space/](https://suphason.space/)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 My Social</h3>
 <p align="left">
 <a href="https://github.com/sildev13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sildev13" height="30" width="40" /></a>
 <a href="https://fb.com/61562046075913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="61562046075913" height="30" width="40" /></a>
 <a href="https://instagram.com/sinnakup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sinnakup" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SinisterX12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCbEQuDD2Yyhf0SVVDUu9JfA" height="30" width="40" /></a>
+<a href="https://discord.com/users/1471398248974651478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1471398248974651478" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
