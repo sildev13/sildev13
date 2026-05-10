@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9333EA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;I+like+coding+and+playing+drums;Developer+%26+Drummer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=187BF7&background=93FF9600&center=true&vCenter=true&width=435&lines=Hi+My+Name+is+Suphason+Keawbuadee+;I+Love+Coding+Python;I%E2%80%99m+studying+at+DSKRU+School;You+Can+Contact+me+At+nongsin%40suphason.space" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,19 +7,19 @@
 <table border="0">
   <tr>
     <td align="center" width="35%" valign="top">
-      <img src="[https://raw.githubusercontent.com/sildev13/sildev13/main/your-avatar.png](https://avatars.githubusercontent.com/u/193212083?v=4)" width="250px" style="border-radius: 20px;" />
+      <img src="https://avatars.githubusercontent.com/u/193212083?v=4" width="250px" style="border-radius: 20px;" />
       <br><br>
-      <h3>✨ Jittiphat Somsai ✨</h3>
-      <p><i>"Code by Day, Drums by Night"</i></p>
-      <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" /></a>
-      <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" /></a>
+      <h3>✨ Suphason Keawbuadee ✨</h3>
+      <p><i>"Code by Day, Gaming by Night"</i></p>
+      <a href="https://www.facebook.com/profile.php?id=61562046075913&locale=th_TH"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" /></a>
+      <a href="https://www.youtube.com/@SinisterX12"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" /></a>
     </td>
     <td width="65%" valign="top">
       <h3>About Me 👨‍💻</h3>
       
-      - 🔭 **Working on:** [Sinister Cloud](https://github.com/sildev13)
+      - 🔭 **Working on:** [Sinister Server](https://github.com/sildev13)
       - 🌱 **Learning:** Next.js, Rust, and Backend System
-      - 🥁 **Hobby:** I'm a professional-ish drummer!
+      - 🥁 **Hobby:** I'm a professional-ish Gamer!
       - ✉️ **Contact:** <a href="mailto:nongsin@suphason.space">nongsin@suphason.space</a>
       - 📍 **Based in:** Thailand 🇹🇭
 
